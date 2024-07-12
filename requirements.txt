@@ -1,0 +1,6 @@
+pytest
+bump2version
+pre-commit
+setuptools
+wheel
+twine
