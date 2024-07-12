@@ -1,4 +1,4 @@
-from lib_test_pip.addition import add
+from lib_test_pip_samir539.addition import add
 
 def test_add():
     assert add(2,3) == 5
