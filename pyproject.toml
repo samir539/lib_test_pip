@@ -1,5 +1,5 @@
 [project]
-name = "basic_math_lib_samir539"
+name = "lib_test_pip_samir539"
 version = "0.0.1"
 description = "basic math lib"
 readme = "README.md"
@@ -17,3 +17,6 @@ Homepage = "https://github.com/samir539/lib_test_pip"
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+[tool.hatch.build]
+include = ["lib_test_pip_samir539/*"]
