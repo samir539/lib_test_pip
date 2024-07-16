@@ -1,6 +1,6 @@
 [project]
 name = "lib_test_pip_samir539"
-version = "0.0.13"
+version = "0.0.14"
 description = "basic math lib"
 readme = "README.md"
 requires-python = ">=3.8"
